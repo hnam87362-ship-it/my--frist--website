@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+
+<body>
+    <h1>Linke</h1>
+    <a href="https://www.google.com/" target="_self">Google</a>
+    <br>
+    <a href="https://github.com/" target="_blank">GitHub</a>
+    <br>
+    <h1><mark> Learn simple </mark></h1>
+    <p>
+        my channel offers educational videos on a variety of topics, included science
+    </p>
+    <a href="">c++</a>
+    <a href="">python</a>
+    <a href="">java </a>
+    <a href="">html</a>
+
+    <h2><mark>c++</mark></h2>
+    <p>lorem 50t</p>
+
+
+
+</body>
+
+</html>
